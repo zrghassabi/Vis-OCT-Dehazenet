@@ -1,4 +1,4 @@
-# Vis-OCT-Dehazenet
+# Vis-OCT-Dehazenet- A deep Model to improve visialuzation of vis-OCT images
 https://iovs.arvojournals.org/article.aspx?articleid=2782748
 
 
