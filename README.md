@@ -1,5 +1,5 @@
 # Vis-OCT-Dehazenet
-
+https://iovs.arvojournals.org/article.aspx?articleid=2782748
 RVO Annual Meeting Abstract  |   June 2022
 Dehazing of Visible-light OCT B-scans using deep neural model improves visualization and quantification of retinal sub-layers.
 Zeinab Ghassabi; Joel S Schuman; TingFang Lee; Eitan Shemuelian; Ronald Zambrano; Roman Kuranov; Ian Rubinoff; Gadi Wollstein; Hao Zhang; Hiroshi Ishikawa
